@@ -1,10 +1,10 @@
-import React, { useState } from "react"
+//import React, { useState } from "react"
 import Head from "./Head"
 import "./header.css"
-import { Link } from "react-router-dom"
+//import { Link } from "react-router-dom"
 
 const Header = () => {
-  const [navbar, setNavbar] = useState(false)
+  //const [navbar, setNavbar] = useState(false)
 
   return (
     <>
